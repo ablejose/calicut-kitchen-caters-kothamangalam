@@ -1,0 +1,34 @@
+{
+  "slug": "calicut-kitchen-caters-kothamangalam",
+  "name": "Calicut Kitchen Caters",
+  "shortName": "Calicut",
+  "descriptor": "Catering Services",
+  "address": "Koovalloor, Kothamangalam, Keralam 686671",
+  "area": "Koovalloor",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686671",
+  "geo": {
+    "lat": 10.029991899999999,
+    "lng": 76.69757390000001
+  },
+  "mapsLink": "https://maps.google.com/?cid=3718748147839929318",
+  "phone": "+91 95440 38212",
+  "whatsapp": "919544038212",
+  "rating": 5,
+  "reviewCount": 3,
+  "reviews": [
+    {
+      "name": "EYETRICKS WEDDING MEDIA",
+      "rating": 5,
+      "quote": "Excellent Service and Tasty Food❤️❤️"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://calicut-kitchen-caters-kothamangala.vercel.app"
+}
